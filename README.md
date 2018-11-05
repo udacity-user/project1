@@ -24,7 +24,7 @@ In addition to the data there is also an ipython notebook of data analysis and p
 - Software development is a men's domain (Over 90% men)
 - In all top 10 countries for developers men's salary is higher than women's salary
 - Developer with a doctoral degree got the highest salary
-- Machine Learining Specialists and Data Scientists are the are the best developers with the highest salary
+- Machine Learining Specialists and Data Scientists are the are the best developers with the highest salary in the whole field
 
 ### Author
 
