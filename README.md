@@ -8,7 +8,7 @@ The dataset can be found at: https://insights.stackoverflow.com/survey
 
 ### File description
 
-The folder data contains the .csv files of data. 
+The data.zip contains two .csv files. The data and the schema. 
 
 In addition to the data there is also an ipython notebook of data analysis and presentation.
 
