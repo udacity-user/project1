@@ -12,6 +12,8 @@ The data.zip contains two .csv files. The data and the schema.
 
 In addition to the data there is also an ipython notebook of data analysis and presentation.
 
+For running the notebook unzip the data and put it in the same folder as the notebook.
+
 ### Used Libraries
 
 - numpy
